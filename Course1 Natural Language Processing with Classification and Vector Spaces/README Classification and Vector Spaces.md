@@ -66,3 +66,17 @@
 ![](Figures/Week2/Remove_words.png)
 ![](Figures/Week2/Word_order.png)
 ![](Figures/Week2/Adversarial_attacks.png)
+## Week3: Word Embeddings
+### Word by Word and Word by Doc
+![](Figures/Week3/Word_by_word.png)
+![](Figures/Week3/Vector_space.png)
+### Cosine Similarity
+![](Figures/Week3/Cosine_similarity.png)
+![](Figures/Week3/Cosine_similarity_formula.png)
+### Manipulating Words in Vector Spaces
+![](Figures/Week3/Word_vectors.png)
+### Visualization and PCA
+![](Figures/Week3/Visualization_word.png)
+![](Figures/Week3/PCA.png)
+![](Figures/Week3/PCA_step1.png)
+![](Figures/Week3/PCA_step2.png)
