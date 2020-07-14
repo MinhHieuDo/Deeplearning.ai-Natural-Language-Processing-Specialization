@@ -80,3 +80,19 @@
 ![](Figures/Week3/PCA.png)
 ![](Figures/Week3/PCA_step1.png)
 ![](Figures/Week3/PCA_step2.png)
+## Week4: Word Translation
+### Transforming word vectors
+![](Figures/Week4/Overview.png)
+![](Figures/Week4/Align_word.png)
+![](Figures/Week4/Loss_function.png)
+### K-nearest neighbors
+![](Figures/Week4/Finding_translation.png)
+### Hash tables and hash functions
+![](Figures/Week4/Hash_table.png)
+![](Figures/Week4/Hash_function.png)
+### Locality sensitive hashing
+![](Figures/Week4/Side_plane.png)
+![](Figures/Week4/Side_dotProduct.png)
+### Multiple Planes
+![](Figures/Week4/Single_hash_value.png)
+![](Figures/Week4/Hash_multiple_planes.png)
