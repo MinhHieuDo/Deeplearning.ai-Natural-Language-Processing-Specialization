@@ -51,3 +51,40 @@
 ![](Figures/Week3/Smoothing.png)
 ![](Figures/Week3/Backoff.png)
 ![](Figures/Week3/Interpolation.png)
+
+## Week4: Word embeddings with neural networks
+### Basic Word Representations
+![](Figures/Week4/One_hot_vector.png)
+### Word Embeddings
+![](Figures/Week4/Word_embedding_vector.png)
+![](Figures/Week4/Word_embedding_process.png)
+![](Figures/Week4/Basic_word_embedding.png)
+![](Figures/Week4/Avanced_word_embedding.png)
+### Continuous Bag-of-Words Model
+![](Figures/Week4/CBOW.png)
+### Cleaning and Tokenization
+![](Figures/Week4/Preprocess_data.png)
+### Sliding Window of Words in Python
+![](Figures/Week4/Sliding_window.png)
+![](Figures/Week4/Sliding_window_p2.png)
+### Transforming Words into Vectors
+![](Figures/Week4/Word_into_vector.png)
+![](Figures/Week4/Word_into_vector_final.png)
+### Architecture of the CBOW Model
+![](Figures/Week4/CBOW_model.png)
+![](Figures/Week4/CBOW_single_input.png)
+![](Figures/Week4/CBOW_batch_input.png)
+![](Figures/Week4/CBOW_relu.png)
+![](Figures/Week4/CBOW_softmax.png)
+### Training a CBOW Model
+![](Figures/Week4/Loss_model.png)
+![](Figures/Week4/Cross_entropy_loss.png)
+![](Figures/Week4/Cost.png)
+![](Figures/Week4/Backpropagation.png)
+![](Figures/Week4/Gradient_descent.png)
+### Extracting Word Embedding Vectors
+![](Figures/Week4/Extracting_option1.png)
+![](Figures/Week4/Extracting_option2.png)
+![](Figures/Week4/Extracting_option3.png)
+### Evaluating Word Embeddings: Intrinsic Evaluation
+![](Figures/Week4/Intrinsic_evaluation.png)
