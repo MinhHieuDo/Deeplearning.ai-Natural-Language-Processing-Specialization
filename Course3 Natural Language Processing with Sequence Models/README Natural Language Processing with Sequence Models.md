@@ -26,3 +26,18 @@
 ![](Figures/Week2/GRU.png)
 ### Deep and Bi-directional RNNs 
 ![](Figures/Week2/Bi_directional_RNN.png)
+
+## Week3: LSTMs and Named Entity Recognition
+### RNNs and Vanishing Gradients
+![](Figures/Week3/Vanishing_gradient.png)
+![](Figures/Week3/Solving_gradient_problem.png)
+
+### Introduction to LSTMs
+![](Figures/Week3/LSTM_basic.png)
+![](Figures/Week3/Cell_gate.png)
+![](Figures/Week3/Output_gate.png)
+### Introduction to Named Entity Recognition
+![](Figures/Week3/Training_NER.png)
+![](Figures/Week3/NER.png)
+### Computing Accuracy
+![](Figures/Week3/Accuracy.png)
