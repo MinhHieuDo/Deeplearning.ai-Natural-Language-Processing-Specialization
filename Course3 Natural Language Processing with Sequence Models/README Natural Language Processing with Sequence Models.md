@@ -41,3 +41,20 @@
 ![](Figures/Week3/NER.png)
 ### Computing Accuracy
 ![](Figures/Week3/Accuracy.png)
+
+## Week4: Siamese Networks
+![](Figures/Week4/Architecture.png)
+### Cost Function
+![](Figures/Week4/Loss_function.png)
+![](Figures/Week4/Loss_diff.png)
+
+### Triplets
+![](Figures/Week4/Triplet_loss.png)
+![](Figures/Week4/Triplet_selection.png)
+### Computing The Cost
+![](Figures/Week4/Computing_cost1.png)
+![](Figures/Week4/Computing_cost2.png)
+![](Figures/Week4/Hard_negative_mining.png)
+### One Shot Learning
+![](Figures/Week4/One_shot_learning.png)
+![](Figures/Week4/testing.png)
