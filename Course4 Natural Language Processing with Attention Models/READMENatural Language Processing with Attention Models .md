@@ -24,3 +24,34 @@
 ![](Figures/Week1/Beam_search_problem.png)
 ![](Figures/Week1/MBR.png)
 ![](Figures/Week1/MBR_ex.png)
+
+## Week2: Text Summarization
+### Transformers vs RNNs
+![](Figures/Week2/Encoder_Decoder.png)
+![](Figures/Week2/Encoder_Decoder_Attention.png)
+![](Figures/Week2/Multi_headed.png)
+### Transformer Applications
+![](Figures/Week2/T5_app1.png)
+![](Figures/Week2/T5_app2.png)
+### Dot-Product Attention
+![](Figures/Week2/Intro_attention.png)
+![](Figures/Week2/Attention_math.png)
+![](Figures/Week2/Attention_formula.png)
+### Causal Attention
+![](Figures/Week2/Three_ways.png)
+![](Figures/Week2/Casual_attention.png)
+### Multi-head Attention
+![](Figures/Week2/Scale.png)
+![](Figures/Week2/Concatenation.png)
+![](Figures/Week2/MH_formula.png)
+
+### Transformer Decoder
+![](Figures/Week2/Transformer_overview.png)
+![](Figures/Week2/Transformer_explanation.png)
+![](Figures/Week2/Transformer_decoder.png)
+![](Figures/Week2/Feed_forward_layer.png)
+
+### Transformer Summarizer
+![](Figures/Week2/Data_processing.png)
+![](Figures/Week2/Cost_function.png)
+![](Figures/Week2/Model_summarize.png)
