@@ -55,3 +55,41 @@
 ![](Figures/Week2/Data_processing.png)
 ![](Figures/Week2/Cost_function.png)
 ![](Figures/Week2/Model_summarize.png)
+
+## Week3: Question Answering
+### Transfer Learning in NLP
+![](Figures/Week3/Transfer_learning.png)
+![](Figures/Week3/Feature_based_Fine_tuning.png)
+![](Figures/Week3/Pretrain_task.png)
+
+### ELMo, GPT, BERT, T5
+![](Figures/Week3/CBOW.png)
+![](Figures/Week3/ELMO.png)
+![](Figures/Week3/GPT.png)
+![](Figures/Week3/BERT.png)
+![](Figures/Week3/T5_overview.png)
+![](Figures/Week3/summary.png)
+
+### Bidirectional Encoder Representations from Transformers 
+![](Figures/Week3/BERT_layer.png)
+![](Figures/Week3/Summary_BERT.png)
+
+### BERT Objective
+![](Figures/Week3/BERT_input.png)
+![](Figures/Week3/BERT_output.png)
+![](Figures/Week3/BERT_loss.png)
+### Fine tuning BERT
+![](Figures/Week3/BERT_fine.png)
+![](Figures/Week3/BERT_fine_in_out.png)
+![](Figures/Week3/BERT_fine_summary.png)
+### Transformer: T5
+![](Figures/Week3/Architecture.png)
+![](Figures/Week3/T5_multi_task.png)
+![](Figures/Week3/T5_input_output.png)
+
+![](Figures/Week3/T5_fine_tune.png)
+![](Figures/Week3/Unfreezing_adapter.png)
+
+### Question Answering
+![](Figures/Week3/Transformer_encoder.png)
+![](Figures/Week3/QA_T5.png)
