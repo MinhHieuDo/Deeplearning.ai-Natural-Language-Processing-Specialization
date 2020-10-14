@@ -93,3 +93,17 @@
 ### Question Answering
 ![](Figures/Week3/Transformer_encoder.png)
 ![](Figures/Week3/QA_T5.png)
+
+## Week4: Chatbot
+
+### Transformer Complexity
+![](Figures/Week4/Transformer_issues.png)
+
+![](Figures/Week4/LSH_attention.png)
+![](Figures/Week4/LSH_graph.png)
+
+### Reversible Residual Layers 
+![](Figures/Week4/Memory.png)
+![](Figures/Week4/Reversible_layers.png)
+![](Figures/Week4/Reversible1.png)
+![](Figures/Week4/Reversible2.png)
